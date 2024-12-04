@@ -1,0 +1,16 @@
+.krisi-spisok{
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+    width: 400px;
+}
+.krisa-style{
+    width: 300px;
+    height: 100px;
+}
+body{
+    background: linear-gradient(blue, pink);
+}
+li{
+    list-style-type:none;
+}
